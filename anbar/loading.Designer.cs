@@ -94,15 +94,19 @@
             // 
             // 
             this.progressBarX1.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
+            this.progressBarX1.Font = new System.Drawing.Font("Adobe Arabic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.progressBarX1.ForeColor = System.Drawing.Color.White;
             this.progressBarX1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.progressBarX1.Location = new System.Drawing.Point(12, 275);
-            this.progressBarX1.MarqueeAnimationSpeed = 1;
+            this.progressBarX1.Location = new System.Drawing.Point(12, 267);
             this.progressBarX1.Name = "progressBarX1";
-            this.progressBarX1.Size = new System.Drawing.Size(600, 18);
+            this.progressBarX1.ProgressType = DevComponents.DotNetBar.eProgressItemType.Marquee;
+            this.progressBarX1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.progressBarX1.Size = new System.Drawing.Size(600, 26);
             this.progressBarX1.Step = 4;
-            this.progressBarX1.Style = DevComponents.DotNetBar.eDotNetBarStyle.Windows7;
+            this.progressBarX1.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeXP;
             this.progressBarX1.TabIndex = 8;
-            this.progressBarX1.Text = "progressBarX1";
+            this.progressBarX1.Text = "لطفا کمی صبر کنید";
+            this.progressBarX1.TextVisible = true;
             // 
             // reflectionImage4
             // 
@@ -163,8 +167,8 @@
             // 
             // styleManager1
             // 
-            this.styleManager1.ManagerStyle = DevComponents.DotNetBar.eStyle.Windows7Blue;
-            this.styleManager1.MetroColorParameters = new DevComponents.DotNetBar.Metro.ColorTables.MetroColorGeneratorParameters(System.Drawing.Color.White, System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(87)))), ((int)(((byte)(154))))));
+            this.styleManager1.ManagerStyle = DevComponents.DotNetBar.eStyle.Office2007Black;
+            this.styleManager1.MetroColorParameters = new DevComponents.DotNetBar.Metro.ColorTables.MetroColorGeneratorParameters(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255))))), System.Drawing.Color.FromArgb(((int)(((byte)(106)))), ((int)(((byte)(56)))), ((int)(((byte)(137))))));
             // 
             // loading
             // 
@@ -187,11 +191,11 @@
         private DevComponents.DotNetBar.Ribbon.RibbonClientPanel ribbonClientPanel1;
         private DevComponents.DotNetBar.Controls.ReflectionImage reflectionImage4;
         private DevComponents.DotNetBar.Controls.ReflectionImage reflectionImage2;
-        private DevComponents.DotNetBar.Controls.ProgressBarX progressBarX1;
         private System.Windows.Forms.Timer timer1;
         private DevComponents.DotNetBar.StyleManager styleManager1;
         private DevComponents.DotNetBar.Controls.ReflectionImage reflectionImage3;
         private DevComponents.DotNetBar.Controls.ReflectionImage reflectionImage1;
         private DevComponents.DotNetBar.Controls.ReflectionLabel reflectionLabel1;
+        private DevComponents.DotNetBar.Controls.ProgressBarX progressBarX1;
     }
 }

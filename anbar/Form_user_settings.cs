@@ -180,6 +180,7 @@ namespace anbar
                 e.Handled = true;
                 MessageBox.Show("لطفا عدد وارد کنید", "هشدار", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button1);
             }
+            
         }
 
         private void buttonX5_Click(object sender, EventArgs e)
