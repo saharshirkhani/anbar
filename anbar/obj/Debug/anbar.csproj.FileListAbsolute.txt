@@ -1,0 +1,56 @@
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\bin\Debug\anbar.exe
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\bin\Debug\anbar.pdb
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.csprojResolveAssemblyReference.cache
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.about.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_anbar.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_country.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_factor.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_foroshandeh.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_kala.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_newfactor.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_report_foroshandeh.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_report_kala.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_report_tahvilgirandeh.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_report_mojodi.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_tahvilgirandeh.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_unit.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Form_user_settings.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.loading.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.login.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.main.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.PrintOptions.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.Properties.Resources.resources
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.csproj.GenerateResource.Cache
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.exe
+C:\Users\Farbod\Downloads\Compressed\Anbar-Dari-Csharp\Anbar Dari Csharp\anbar\obj\Debug\anbar.pdb
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.exe
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.pdb
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\bin\Debug\anbar.exe
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\bin\Debug\anbar.pdb
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.csprojResolveAssemblyReference.cache
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.about.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_anbar.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_country.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_factor.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_foroshandeh.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_kala.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_newfactor.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_report_foroshandeh.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_report_kala.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_report_tahvilgirandeh.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_report_mojodi.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_tahvilgirandeh.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_unit.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Form_user_settings.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.loading.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.login.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.main.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.PrintOptions.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.Properties.Resources.resources
+C:\Users\Dr.Nobari\Downloads\AnbarDari_SourceBaran.Com\AnbarDari_SourceBaran.Com\anbar\obj\Debug\anbar.csproj.GenerateResource.Cache
+C:\Users\Dr.Nobari\Downloads\AnbarDari\AnbarDari\anbar\obj\Debug\anbar.exe
+C:\Users\Dr.Nobari\Downloads\AnbarDari\AnbarDari\anbar\obj\Debug\anbar.pdb
+D:\uni\az software\AnbarDari\AnbarDari\anbar\obj\Debug\anbar.exe
+D:\uni\az software\AnbarDari\AnbarDari\anbar\obj\Debug\anbar.pdb
