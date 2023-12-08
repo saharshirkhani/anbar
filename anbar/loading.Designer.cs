@@ -83,10 +83,10 @@
             this.reflectionLabel1.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.reflectionLabel1.Location = new System.Drawing.Point(257, 7);
             this.reflectionLabel1.Name = "reflectionLabel1";
-            this.reflectionLabel1.Size = new System.Drawing.Size(194, 62);
+            this.reflectionLabel1.Size = new System.Drawing.Size(100, 62);
             this.reflectionLabel1.TabIndex = 9;
-            this.reflectionLabel1.Text = "<b><font size=\"+6\"><i>Anbar  </i><font color=\"#B02B2C\"><i>Yar</i></font></font></" +
-    "b>";
+            this.reflectionLabel1.Text = "<b><font size=\"+6\" color=\"#D06E5B\"><i>Anbar  </i><font color=\"#B08B2C\"><i>Yar</i>" +
+    "</font></font></b>";
             // 
             // progressBarX1
             // 
@@ -94,8 +94,8 @@
             // 
             // 
             this.progressBarX1.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.progressBarX1.Font = new System.Drawing.Font("Adobe Arabic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.progressBarX1.ForeColor = System.Drawing.Color.White;
+            this.progressBarX1.Font = new System.Drawing.Font("B Jadid", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
+            this.progressBarX1.ForeColor = System.Drawing.Color.Black;
             this.progressBarX1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.progressBarX1.Location = new System.Drawing.Point(12, 267);
             this.progressBarX1.Name = "progressBarX1";
@@ -103,7 +103,7 @@
             this.progressBarX1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.progressBarX1.Size = new System.Drawing.Size(600, 26);
             this.progressBarX1.Step = 4;
-            this.progressBarX1.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeXP;
+            this.progressBarX1.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.progressBarX1.TabIndex = 8;
             this.progressBarX1.Text = "لطفا کمی صبر کنید";
             this.progressBarX1.TextVisible = true;
@@ -167,8 +167,8 @@
             // 
             // styleManager1
             // 
-            this.styleManager1.ManagerStyle = DevComponents.DotNetBar.eStyle.Office2007Black;
-            this.styleManager1.MetroColorParameters = new DevComponents.DotNetBar.Metro.ColorTables.MetroColorGeneratorParameters(System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255))))), System.Drawing.Color.FromArgb(((int)(((byte)(106)))), ((int)(((byte)(56)))), ((int)(((byte)(137))))));
+            this.styleManager1.ManagerStyle = DevComponents.DotNetBar.eStyle.OfficeMobile2014;
+            this.styleManager1.MetroColorParameters = new DevComponents.DotNetBar.Metro.ColorTables.MetroColorGeneratorParameters(System.Drawing.Color.White, System.Drawing.Color.FromArgb(((int)(((byte)(183)))), ((int)(((byte)(71)))), ((int)(((byte)(42))))));
             // 
             // loading
             // 
