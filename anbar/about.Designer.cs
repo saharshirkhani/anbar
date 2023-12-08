@@ -51,6 +51,8 @@
             // 
             this.labelX1.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX1.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelX1.FontBold = true;
+            this.labelX1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelX1.Location = new System.Drawing.Point(279, 12);
             this.labelX1.Name = "labelX1";
             this.labelX1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -66,6 +68,8 @@
             // 
             this.labelX2.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX2.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelX2.FontBold = true;
+            this.labelX2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelX2.Location = new System.Drawing.Point(279, 41);
             this.labelX2.Name = "labelX2";
             this.labelX2.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -81,6 +85,8 @@
             // 
             this.labelX3.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX3.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelX3.FontBold = true;
+            this.labelX3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelX3.Location = new System.Drawing.Point(279, 70);
             this.labelX3.Name = "labelX3";
             this.labelX3.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -96,6 +102,8 @@
             // 
             this.labelX4.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX4.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelX4.FontBold = true;
+            this.labelX4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelX4.Location = new System.Drawing.Point(279, 99);
             this.labelX4.Name = "labelX4";
             this.labelX4.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -111,6 +119,8 @@
             // 
             this.labelX5.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX5.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelX5.FontBold = true;
+            this.labelX5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelX5.Location = new System.Drawing.Point(168, 99);
             this.labelX5.Name = "labelX5";
             this.labelX5.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -126,6 +136,8 @@
             // 
             this.labelX6.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX6.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelX6.FontBold = true;
+            this.labelX6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelX6.Location = new System.Drawing.Point(168, 70);
             this.labelX6.Name = "labelX6";
             this.labelX6.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -141,6 +153,8 @@
             // 
             this.labelX7.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX7.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelX7.FontBold = true;
+            this.labelX7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelX7.Location = new System.Drawing.Point(168, 41);
             this.labelX7.Name = "labelX7";
             this.labelX7.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -156,6 +170,8 @@
             // 
             this.labelX8.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX8.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelX8.FontBold = true;
+            this.labelX8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelX8.Location = new System.Drawing.Point(168, 12);
             this.labelX8.Name = "labelX8";
             this.labelX8.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -171,6 +187,8 @@
             // 
             this.labelX9.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.labelX9.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelX9.FontBold = true;
+            this.labelX9.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.labelX9.Location = new System.Drawing.Point(279, 128);
             this.labelX9.Name = "labelX9";
             this.labelX9.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -183,25 +201,25 @@
             this.buttonX1.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton;
             this.buttonX1.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground;
             this.buttonX1.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonX1.Location = new System.Drawing.Point(279, 292);
+            this.buttonX1.Location = new System.Drawing.Point(32, 245);
             this.buttonX1.Name = "buttonX1";
             this.buttonX1.Size = new System.Drawing.Size(75, 23);
             this.buttonX1.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.buttonX1.TabIndex = 10;
-            this.buttonX1.Text = "قبول";
+            this.buttonX1.Text = "تائید";
             this.buttonX1.Click += new System.EventHandler(this.buttonX1_Click);
             // 
             // reflectionImage1
             // 
-            this.reflectionImage1.BackColor = System.Drawing.Color.Transparent;
+            this.reflectionImage1.BackColor = System.Drawing.SystemColors.ActiveBorder;
             // 
             // 
             // 
             this.reflectionImage1.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.reflectionImage1.Image = ((System.Drawing.Image)(resources.GetObject("reflectionImage1.Image")));
-            this.reflectionImage1.Location = new System.Drawing.Point(0, 0);
+            this.reflectionImage1.Location = new System.Drawing.Point(-1, 0);
             this.reflectionImage1.Name = "reflectionImage1";
-            this.reflectionImage1.Size = new System.Drawing.Size(116, 228);
+            this.reflectionImage1.Size = new System.Drawing.Size(145, 93);
             this.reflectionImage1.TabIndex = 11;
             // 
             // textBoxX1
@@ -211,7 +229,7 @@
             // 
             this.textBoxX1.Border.Class = "TextBoxBorder";
             this.textBoxX1.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.textBoxX1.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxX1.Font = new System.Drawing.Font("B Mitra", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.textBoxX1.Location = new System.Drawing.Point(122, 157);
             this.textBoxX1.Multiline = true;
             this.textBoxX1.Name = "textBoxX1";
@@ -219,7 +237,9 @@
             this.textBoxX1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.textBoxX1.Size = new System.Drawing.Size(232, 129);
             this.textBoxX1.TabIndex = 12;
-            this.textBoxX1.Text = "سیستم مدیریت انبار نوشته شده توسط سحر شیرخانی \r\n";
+            this.textBoxX1.Text = "سیستم مدیریت انبار نوشته شده تیم برنامه نویسی (سحرشیرخانی،زهرا بخشی) می باشد\r\nاین" +
+    " پروژه شامل یک داکیومنت در خصوص بخش های مختلف پروژه بوده و اطلاعات کامل پروژه در" +
+    " دسترس می باشد \r\n";
             this.textBoxX1.TextChanged += new System.EventHandler(this.textBoxX1_TextChanged);
             // 
             // about
@@ -228,7 +248,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(356, 312);
+            this.ClientSize = new System.Drawing.Size(356, 289);
             this.Controls.Add(this.textBoxX1);
             this.Controls.Add(this.reflectionImage1);
             this.Controls.Add(this.buttonX1);
@@ -246,7 +266,7 @@
             this.MaximumSize = new System.Drawing.Size(372, 351);
             this.Name = "about";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "د رباره";
+            this.Text = "درباره";
             this.ResumeLayout(false);
 
         }
