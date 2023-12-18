@@ -309,5 +309,10 @@ namespace anbar
             about x = new about();
             x.ShowDialog();
         }
+
+        private void reflectionLabel3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

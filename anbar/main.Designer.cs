@@ -159,6 +159,7 @@
             // 
             // ribbonControl1
             // 
+            this.ribbonControl1.BackColor = System.Drawing.Color.White;
             // 
             // 
             // 
@@ -171,6 +172,7 @@
             this.ribbonControl1.Controls.Add(this.ribbonPanel3);
             this.ribbonControl1.Controls.Add(this.ribbonPanel5);
             this.ribbonControl1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.ribbonControl1.ForeColor = System.Drawing.Color.Black;
             this.ribbonControl1.Items.AddRange(new DevComponents.DotNetBar.BaseItem[] {
             this.office2007StartButton1,
             this.ribbonTabItem1,
@@ -217,10 +219,10 @@
             this.ribbonPanel1.Controls.Add(this.ribbonBar2);
             this.ribbonPanel1.Controls.Add(this.ribbonBar1);
             this.ribbonPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ribbonPanel1.Location = new System.Drawing.Point(0, 61);
+            this.ribbonPanel1.Location = new System.Drawing.Point(0, 62);
             this.ribbonPanel1.Name = "ribbonPanel1";
             this.ribbonPanel1.Padding = new System.Windows.Forms.Padding(3, 0, 3, 2);
-            this.ribbonPanel1.Size = new System.Drawing.Size(838, 96);
+            this.ribbonPanel1.Size = new System.Drawing.Size(838, 95);
             // 
             // 
             // 
@@ -320,7 +322,7 @@
             this.buttonItem18});
             this.ribbonBar3.Location = new System.Drawing.Point(357, 0);
             this.ribbonBar3.Name = "ribbonBar3";
-            this.ribbonBar3.Size = new System.Drawing.Size(94, 94);
+            this.ribbonBar3.Size = new System.Drawing.Size(94, 93);
             this.ribbonBar3.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.ribbonBar3.TabIndex = 2;
             this.ribbonBar3.Text = "کشورها";
@@ -362,7 +364,7 @@
             this.buttonItem17});
             this.ribbonBar2.Location = new System.Drawing.Point(180, 0);
             this.ribbonBar2.Name = "ribbonBar2";
-            this.ribbonBar2.Size = new System.Drawing.Size(177, 94);
+            this.ribbonBar2.Size = new System.Drawing.Size(177, 93);
             this.ribbonBar2.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.ribbonBar2.TabIndex = 1;
             this.ribbonBar2.Text = "انبارها و کالاها";
@@ -414,7 +416,7 @@
             this.buttonItem15});
             this.ribbonBar1.Location = new System.Drawing.Point(3, 0);
             this.ribbonBar1.Name = "ribbonBar1";
-            this.ribbonBar1.Size = new System.Drawing.Size(177, 94);
+            this.ribbonBar1.Size = new System.Drawing.Size(177, 93);
             this.ribbonBar1.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.ribbonBar1.TabIndex = 0;
             this.ribbonBar1.Text = "فروشندگان واشخاص";
@@ -1623,7 +1625,7 @@
             // 
             // ribbonClientPanel2
             // 
-            this.ribbonClientPanel2.CanvasColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.ribbonClientPanel2.CanvasColor = System.Drawing.SystemColors.ActiveCaption;
             this.ribbonClientPanel2.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.ribbonClientPanel2.Controls.Add(this.reflectionLabel3);
             this.ribbonClientPanel2.Controls.Add(this.reflectionLabel1);
@@ -1655,11 +1657,13 @@
             // 
             this.reflectionLabel3.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.reflectionLabel3.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.reflectionLabel3.Location = new System.Drawing.Point(369, 0);
+            this.reflectionLabel3.Location = new System.Drawing.Point(357, 0);
             this.reflectionLabel3.Name = "reflectionLabel3";
-            this.reflectionLabel3.Size = new System.Drawing.Size(339, 62);
+            this.reflectionLabel3.Size = new System.Drawing.Size(433, 62);
             this.reflectionLabel3.TabIndex = 10;
-            this.reflectionLabel3.Text = "dev by Sahar Shirkhani & Zahra Bakhshi";
+            this.reflectionLabel3.Text = "<b><font size=\"+2\" color=\"#D06E5B\"><i>dev by  </i><font color=\"#B08B2C\"><i>Sahar " +
+    "shirkhani & Zahra bakhshi</i></font></font></b>";
+            this.reflectionLabel3.Click += new System.EventHandler(this.reflectionLabel3_Click);
             // 
             // reflectionLabel1
             // 
@@ -1672,8 +1676,8 @@
             this.reflectionLabel1.Name = "reflectionLabel1";
             this.reflectionLabel1.Size = new System.Drawing.Size(95, 62);
             this.reflectionLabel1.TabIndex = 8;
-            this.reflectionLabel1.Text = "<b><font size=\"+6\"><i>Anbar</i><font color=\"#B02B2C\"><i>Yar</i></font></font></b>" +
-    "";
+            this.reflectionLabel1.Text = "<b><font size=\"+6\" color=\"#D06E5B\"><i>Anbar  </i><font color=\"#B08B2C\"><i>Yar</i>" +
+    "</font></font></b>";
             // 
             // main
             // 

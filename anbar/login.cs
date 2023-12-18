@@ -39,6 +39,8 @@ namespace anbar
             strResult = Year + "/" + Month + "/" + Day;
             buttonX1.Text = strResult;
             comboBoxEx1.SelectedIndex = 0;
+            MessageBox.Show("برای نسخه آلفا نام کاربری Demo و رمز عبور 1234 می باشد", "هشدار");
+
         }
 
         private void buttonX3_Click(object sender, EventArgs e)
