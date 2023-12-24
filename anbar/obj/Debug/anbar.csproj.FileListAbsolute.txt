@@ -81,3 +81,5 @@ D:\uni\az software\Anbardari\anbar\anbar\obj\Debug\anbar.main.resources
 D:\uni\az software\Anbardari\anbar\anbar\obj\Debug\anbar.PrintOptions.resources
 D:\uni\az software\Anbardari\anbar\anbar\obj\Debug\anbar.Properties.Resources.resources
 D:\uni\az software\Anbardari\anbar\anbar\obj\Debug\anbar.csproj.GenerateResource.Cache
+D:\uni\az software\Anbardari\anbar\anbar\bin\Debug\anbar.exe.CodeAnalysisLog.xml
+D:\uni\az software\Anbardari\anbar\anbar\bin\Debug\anbar.exe.lastcodeanalysissucceeded
